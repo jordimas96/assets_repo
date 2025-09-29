@@ -1,0 +1,2688 @@
+[
+    {
+        "name": "apple",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "apple home"
+            }
+        ],
+        "id": "3d39a8ff"
+    },
+    {
+        "name": "store",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "store"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - store"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "d50780b4",
+                "title": "Enlaces rápidos",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "quick links - store"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "b982e9db",
+                        "text": "Encontrar una tienda",
+                        "url": "/es/retail/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "find a store"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "846ecb01",
+                        "text": "Estado del pedido",
+                        "url": "/es/shop/goto/order/list",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "order status"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "022cfeed",
+                        "text": "Apple Trade In",
+                        "url": "/es/shop/goto/trade_in",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple trade in"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "72b26e9a",
+                        "text": "Financiación",
+                        "url": "/es/shop/goto/ww/financing",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "financing"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "de6ab82f",
+                        "text": "Configuración Personalizada",
+                        "url": "/es/shop/goto/personal_setup",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "personal setup"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "11074a2a",
+                        "text": "Promoción para estudiantes universitarios",
+                        "url": "/es/shop/goto/edu_store",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "college student offer"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "54d2d0a7",
+                "title": "Tiendas especiales",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop special stores"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "66c6b9ff",
+                        "text": "Reacondicionados certificados",
+                        "url": "/es/shop/goto/special_deals",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "certified refurbished"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "ef8d075f",
+                        "text": "Educación",
+                        "url": "/es/shop/goto/educationrouting",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "education"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "52596910",
+                        "text": "Empresas",
+                        "url": "/es/retail/business/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "business"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "eeb1040b",
+                "title": "Comprar",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore shop"
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "e871f922",
+                        "text": "Comprar lo último",
+                        "url": "/es/shop/goto/store",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop the latest"
+                            }
+                        ],
+                        "ariaLabel": "Comprar los últimos productos Apple"
+                    },
+                    {
+                        "id": "9aad8e14",
+                        "text": "Mac",
+                        "url": "/es/shop/goto/buy_mac",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "3f427095",
+                        "text": "iPad",
+                        "url": "/es/shop/goto/buy_ipad",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "b8728b50",
+                        "text": "iPhone",
+                        "url": "/es/shop/goto/buy_iphone",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d8758b55",
+                        "text": "Apple Watch",
+                        "url": "/es/shop/goto/buy_watch",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "36c6910c",
+                        "text": "AirPods",
+                        "url": "/es/shop/goto/airpods/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "90b2a307",
+                        "text": "Accesorios",
+                        "url": "/es/shop/goto/buy_accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "8543e00d"
+    },
+    {
+        "name": "mac",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "mac"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - mac"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "d4d8c605",
+                "title": "Comprar un Mac",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop mac"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "6f7c1842",
+                        "text": "Comprar un Mac",
+                        "url": "/es/shop/goto/buy_mac",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "a5c271e3",
+                        "text": "Accesorios para el Mac",
+                        "url": "/es/shop/goto/mac/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "022cfeed",
+                        "text": "Apple Trade In",
+                        "url": "/es/shop/goto/trade_in",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple trade in"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "72b26e9a",
+                        "text": "Financiación",
+                        "url": "/es/shop/goto/ww/financing",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "financing"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "11074a2a",
+                        "text": "Promoción para estudiantes universitarios",
+                        "url": "/es/shop/goto/edu_store",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "college student offer"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "64768a75",
+                "title": "Más del Mac",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from mac"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "258586ed",
+                        "text": "Soporte para el Mac",
+                        "url": "https://support.apple.com/es-es/mac?cid=gn-ols-mac-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            },
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac support"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "dc14b0f1",
+                        "text": "AppleCare",
+                        "url": "/es/applecare/?filter=mac",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare+ for mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "beca5ef9",
+                        "text": "macOS Tahoe",
+                        "url": "/es/os/macos/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "macos tahoe"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "e6eab97d",
+                        "text": "Apple Intelligence",
+                        "url": "/es/apple-intelligence/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple intelligence"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "55d76a64",
+                        "text": "Apps de Apple",
+                        "url": "/es/apps/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apps by apple"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "a2aa6cae",
+                        "text": "Continuidad",
+                        "url": "/es/macos/continuity/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "continuity"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8bfa2b81",
+                        "text": "iCloud+",
+                        "url": "/es/icloud/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "icloud+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "f4dd9ce3",
+                        "text": "Mac para empresas",
+                        "url": "/es/business/mac/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac for business"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "6c6e568e",
+                        "text": "Educación",
+                        "url": "/es/education/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "education"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "e5a0ed25",
+                "title": "Explorar el Mac",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore mac"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "b73c56da",
+                        "text": "Comparar los Mac",
+                        "url": "/es/mac/compare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "compare mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "729bd893",
+                        "text": "Pasarse del PC al Mac",
+                        "url": "/es/mac/mac-does-that/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "switch from pc to mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "3f52fdf6",
+                        "text": "Ver todos los Mac",
+                        "url": "/es/mac/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all mac"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "5243afc2",
+                        "text": "MacBook Air",
+                        "url": "/es/macbook-air/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "macbook air"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "f8cf164d",
+                        "text": "MacBook Pro",
+                        "url": "/es/macbook-pro/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "macbook pro"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "97b8b892",
+                        "text": "iMac",
+                        "url": "/es/imac/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "imac"
+                            }
+                        ],
+                        "ariaLabel": "iMac"
+                    },
+                    {
+                        "id": "dd7968bc",
+                        "text": "Mac mini",
+                        "url": "/es/mac-mini/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac mini"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "7451757d",
+                        "text": "Mac Studio",
+                        "url": "/es/mac-studio/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac studio"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "cce19f26",
+                        "text": "Mac Pro",
+                        "url": "/es/mac-pro/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac pro"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "7f0c5e35",
+                        "text": "Monitores",
+                        "url": "/es/displays/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "displays"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "a5e87de9"
+    },
+    {
+        "name": "ipad",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "ipad"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - ipad"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "9a1bf9af",
+                "title": "Comprar un iPad",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop ipad"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "ba632773",
+                        "text": "Comprar un iPad",
+                        "url": "/es/shop/goto/buy_ipad",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "45563ce7",
+                        "text": "Accesorios para el iPad",
+                        "url": "/es/shop/goto/ipad/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "022cfeed",
+                        "text": "Apple Trade In",
+                        "url": "/es/shop/goto/trade_in",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple trade in"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "72b26e9a",
+                        "text": "Financiación",
+                        "url": "/es/shop/goto/ww/financing",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "financing"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "11074a2a",
+                        "text": "Promoción para estudiantes universitarios",
+                        "url": "/es/shop/goto/edu_store",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "college student offer"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "f834c8ab",
+                "title": "Más del iPad",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from ipad"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "6906612b",
+                        "text": "Soporte para el iPad",
+                        "url": "https://support.apple.com/es-es/ipad?cid=gn-ols-ipad-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "a8674960",
+                        "text": "AppleCare",
+                        "url": "/es/applecare/?filter=ipad",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare+ for ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d92c83cb",
+                        "text": "iPadOS 26",
+                        "url": "/es/os/ipados/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipados 26 "
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "e6eab97d",
+                        "text": "Apple Intelligence",
+                        "url": "/es/apple-intelligence/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple intelligence"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "451822c9",
+                        "text": "Diseñado para las familias",
+                        "url": "/es/designed-for-families/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "designed for families"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "55d76a64",
+                        "text": "Apps de Apple",
+                        "url": "/es/apps/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apps by apple"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8bfa2b81",
+                        "text": "iCloud+",
+                        "url": "/es/icloud/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "icloud+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "6c6e568e",
+                        "text": "Educación",
+                        "url": "/es/education/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "education"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "984d2c84",
+                "title": "Explorar el iPad",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore ipad"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "f9a4e7fe",
+                        "text": "Comparar los iPad",
+                        "url": "/es/ipad/compare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "compare ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "0471d2c3",
+                        "text": "Por qué iPad",
+                        "url": "/es/ipad/why-ipad/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "why ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "41fc363b",
+                        "text": "Ver todos los iPad",
+                        "url": "/es/ipad/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all ipad"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "824fba3f",
+                        "text": "iPad Pro",
+                        "url": "/es/ipad-pro/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad pro"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "b613728d",
+                        "text": "iPad Air",
+                        "url": "/es/ipad-air/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad air"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "878fa0be",
+                        "text": "iPad",
+                        "url": "/es/ipad-11/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad"
+                            }
+                        ],
+                        "ariaLabel": "iPad-11"
+                    },
+                    {
+                        "id": "2176242a",
+                        "text": "iPad mini",
+                        "url": "/es/ipad-mini/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad mini"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "5d619800",
+                        "text": "Apple Pencil",
+                        "url": "/es/apple-pencil/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple pencil"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "7c1c6ab2",
+                        "text": "Teclados",
+                        "url": "/es/ipad-keyboards/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "keyboards"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "55ebfd86"
+    },
+    {
+        "name": "iphone",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "iphone"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - iphone"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "6f75dc2d",
+                "title": "Comprar un iPhone",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop iphone"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "aad551c2",
+                        "text": "Comprar un iPhone",
+                        "url": "/es/shop/goto/buy_iphone",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "c17d3697",
+                        "text": "Accesorios para el iPhone",
+                        "url": "/es/shop/goto/iphone/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "022cfeed",
+                        "text": "Apple Trade In",
+                        "url": "/es/shop/goto/trade_in",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple trade in"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "72b26e9a",
+                        "text": "Financiación",
+                        "url": "/es/shop/goto/ww/financing",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "financing"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "1c10a3ad",
+                "title": "Más del iPhone",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from iphone"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "eeb3410e",
+                        "text": "Soporte para el iPhone",
+                        "url": "https://support.apple.com/es-es/iphone?cid=gn-ols-iphone-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "20d95056",
+                        "text": "AppleCare",
+                        "url": "/es/applecare/?filter=iphone",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare+ for iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "817867a3",
+                        "text": "iOS 26",
+                        "url": "/es/os/ios/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ios 26"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "e6eab97d",
+                        "text": "Apple Intelligence",
+                        "url": "/es/apple-intelligence/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple intelligence"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "451822c9",
+                        "text": "Diseñado para las familias",
+                        "url": "/es/designed-for-families/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "designed for families"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "55d76a64",
+                        "text": "Apps de Apple",
+                        "url": "/es/apps/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apps by apple"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "140c220a",
+                        "text": "Privacidad en el iPhone",
+                        "url": "/es/privacy/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone privacy"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8bfa2b81",
+                        "text": "iCloud+",
+                        "url": "/es/icloud/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "icloud+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4b9f7cec",
+                        "text": "Apple Pay",
+                        "url": "/es/apple-pay/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "wallet"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8b3c27a1",
+                        "text": "Siri",
+                        "url": "/es/siri/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "siri"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "912289fb",
+                "title": "Explorar el iPhone",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore iphone"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "9c3279a2",
+                        "text": "Comparar los iPhone",
+                        "url": "/es/iphone/compare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "compare iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "b1cd7f1b",
+                        "text": "Pasarse al iPhone",
+                        "url": "/es/iphone/switch/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "switch to iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "3e70cc74",
+                        "text": "Ver todos los iPhone",
+                        "url": "/es/iphone/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all iphone"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "ed51ab74",
+                        "text": "iPhone 17 Pro",
+                        "url": "/es/iphone-17-pro/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone 17 pro"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "93b93abd",
+                        "text": "iPhone Air",
+                        "url": "/es/iphone-air/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone air"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "49704891",
+                        "text": "iPhone 17",
+                        "url": "/es/iphone-17/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone 17"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "3660c831",
+                        "text": "iPhone 16",
+                        "url": "/es/shop/goto/buy_iphone/iphone_16",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone 16"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d4609fe3",
+                        "text": "iPhone 16e",
+                        "url": "/es/iphone-16e/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone 16e"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "14d98359"
+    },
+    {
+        "name": "watch",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "watch"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - watch"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "af4b3762",
+                "title": "Comprar un Apple Watch",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop watch"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "5313081e",
+                        "text": "Comprar un Apple Watch",
+                        "url": "/es/shop/goto/buy_watch",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop apple watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "743fd9ef",
+                        "text": "Correas para el Apple Watch",
+                        "url": "/es/shop/goto/watch/bands",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch bands"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "450b6817",
+                        "text": "Accesorios para el Apple Watch",
+                        "url": "/es/shop/goto/watch/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "022cfeed",
+                        "text": "Apple Trade In",
+                        "url": "/es/shop/goto/trade_in",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple trade in"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "72b26e9a",
+                        "text": "Financiación",
+                        "url": "/es/shop/goto/ww/financing",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "financing"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "21c0849b",
+                "title": "Más del Apple Watch",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from watch"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "0c7a39d6",
+                        "text": "Soporte para el Apple Watch",
+                        "url": "https://support.apple.com/es-es/watch?cid=gn-ols-watch-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            },
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch support"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "7a404945",
+                        "text": "AppleCare",
+                        "url": "/es/applecare/?filter=watch",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare+ for apple watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8ed6efd8",
+                        "text": "watchOS 26",
+                        "url": "/es/os/watchos/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "watchos 26 "
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "82166426",
+                        "text": "Apple Watch para tus Peques",
+                        "url": "/es/apple-watch-for-your-kids/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch for your kids"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "55d76a64",
+                        "text": "Apps de Apple",
+                        "url": "/es/apps/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apps by apple"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "9707b159",
+                        "text": "Apple Fitness+",
+                        "url": "/es/apple-fitness-plus/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple fitness+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "5cb0f617",
+                "title": "Explorar el Apple Watch",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore watch"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "b72a0640",
+                        "text": "Comparar los Apple Watch",
+                        "url": "/es/watch/compare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "compare watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "404aa9c4",
+                        "text": "Por qué Apple Watch",
+                        "url": "/es/watch/why-apple-watch/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "why apple watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "1456c55f",
+                        "text": "Ver todos los Apple Watch",
+                        "url": "/es/watch/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all apple watch"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "366d2587",
+                        "text": "Apple Watch Series 11",
+                        "url": "/es/apple-watch-series-11/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch series 11"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "df1a3a17",
+                        "text": "Apple Watch SE 3",
+                        "url": "/es/apple-watch-se-3/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch se 3"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "f77e1e97",
+                        "text": "Apple Watch Ultra 3",
+                        "url": "/es/apple-watch-ultra-3/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch ultra 3"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4b3fd373",
+                        "text": "Apple Watch Nike",
+                        "url": "/es/apple-watch-nike/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch nike"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "9a2ac4f7",
+                        "text": "Apple Watch Hermès",
+                        "url": "/es/apple-watch-hermes/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple watch hermes"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "d7861e86"
+    },
+    {
+        "name": "airpods",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "airpods"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - airpods"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "888ffbb4",
+                "title": "Comprar unos AirPods",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop airpods"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "37994dbe",
+                        "text": "Comprar unos AirPods",
+                        "url": "/es/shop/goto/accessories/all_accessories/headphones_speakers?fh=47d1%2B3214%2B45aa%2B45ab&f=apple-overear-sport&page=1",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop airpods"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "a8ec63b2",
+                        "text": "Accesorios para los AirPods",
+                        "url": "/es/shop/goto/airpods/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "aef300a2",
+                "title": "Más de los AirPods",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from airpods"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "41480ba3",
+                        "text": "Soporte para los AirPods",
+                        "url": "https://support.apple.com/es-es/airpods?cid=gn-ols-airpods-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "602b5f7f",
+                        "text": "AppleCare",
+                        "url": "/es/applecare/?filter=headphones",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare+ for headphones"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "5acb4f44",
+                        "text": "Salud auditiva",
+                        "url": "/es/airpods-pro/hearing-health/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "hearing health"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4fd2ed3a",
+                        "text": "Apple Music",
+                        "url": "/es/apple-music/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple music"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "030cb688",
+                        "text": "Apple Fitness+",
+                        "url": "/es/apple-fitness-plus/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple fitness plus"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "43af8dee",
+                "title": "Explorar los AirPods",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore airpods"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "6d82f214",
+                        "text": "Comparar los AirPods",
+                        "url": "/es/airpods/compare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "compare airpods"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "3e28bc44",
+                        "text": "Ver todos los AirPods",
+                        "url": "/es/airpods/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all airpods"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "61a71df0",
+                        "text": "AirPods 4",
+                        "url": "/es/airpods-4/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods 4"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "631501a2",
+                        "text": "AirPods Pro 3",
+                        "url": "/es/airpods-pro/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods pro 3"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "621fb26b",
+                        "text": "AirPods Max",
+                        "url": "/es/airpods-max/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods max"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "fdc42ff0"
+    },
+    {
+        "name": "tv-home",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "tv & home"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - tv & home"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "dc1e573b",
+                "title": "Comprar TV y Casa",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop tv & home"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "6b17c224",
+                        "text": "Comprar un Apple TV 4K",
+                        "url": "/es/shop/goto/buy_tv/apple_tv_4k",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop apple tv"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "030de95f",
+                        "text": "Comprar un HomePod",
+                        "url": "/es/shop/goto/buy_homepod/homepod",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop homepod"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "fafcf3d3",
+                        "text": "Comprar un HomePod mini",
+                        "url": "/es/shop/goto/buy_homepod/homepod_mini",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop homepod mini"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "fa6afcd7",
+                        "text": "Comprar un Siri Remote",
+                        "url": "/es/shop/goto/product/MW5G3",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop siri remote"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4068beed",
+                        "text": "Accesorios para el TV y Casa",
+                        "url": "/es/shop/goto/smart_home/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "tv & home accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "0c816587",
+                "title": "Más de TV y Casa",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "more from tv & home"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "61ef36fc",
+                        "text": "Soporte para el Apple TV",
+                        "url": "https://support.apple.com/es-es/apple-tv?cid=gn-ols-appletv-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "b6e9d919",
+                        "text": "Soporte para el HomePod",
+                        "url": "https://support.apple.com/es-es/homepod?cid=gn-ols-homepod-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "homepod support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "a40f4fb5",
+                        "text": "AppleCare para Apple TV",
+                        "url": "/es/applecare/?filter=tv",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare for apple tv"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "e9ec00b4",
+                        "text": "AppleCare para el HomePod",
+                        "url": "/es/applecare/?filter=homepod",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "applecare for homepod"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "c0073c4d",
+                        "text": "App Apple TV",
+                        "url": "/es/apple-tv-app/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv app"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "9418a9fe",
+                        "text": "Apple TV+",
+                        "url": "/es/apple-tv-plus/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "0073ec8f",
+                        "text": "App Casa",
+                        "url": "/es/home-app/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "home app"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4fd2ed3a",
+                        "text": "Apple Music",
+                        "url": "/es/apple-music/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple music"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "8b3c27a1",
+                        "text": "Siri",
+                        "url": "/es/siri/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "siri"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "00925abc",
+                        "text": "AirPlay",
+                        "url": "/es/airplay/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airplay"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "d55d8c67",
+                "title": "Explorar TV y Casa",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore tv & home"
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "9dbc290e",
+                        "text": "Explorar TV y Casa",
+                        "url": "/es/tv-home/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore tv & home"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d3f0324a",
+                        "text": "Apple TV 4K",
+                        "url": "/es/apple-tv-4k/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv 4k"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "464574e9",
+                        "text": "HomePod",
+                        "url": "/es/homepod-2nd-generation/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "homepod"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "94afc4e7",
+                        "text": "HomePod mini",
+                        "url": "/es/homepod-mini/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "homepod mini"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "68167210"
+    },
+    {
+        "name": "entertainment",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "entertainment"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - entertainment"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "a9ef93fe",
+                "title": "Soporte",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "support - entertainment"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "a503037e",
+                        "text": "Soporte para Apple TV+",
+                        "url": "https://support.apple.com/es-es/tv?cid=gn-ols-tvplus-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv+ support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "935f8087",
+                        "text": "Soporte para Apple Music",
+                        "url": "https://support.apple.com/es-es/music?cid=gn-ols-music-psp-prodfly",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple music support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "ff0b68a3",
+                "title": "Explorar entretenimiento",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore entertainment"
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "ae41d72c",
+                        "text": "Explorar entretenimiento",
+                        "url": "/es/services/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore entertainment"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "0edaa75f",
+                        "text": "Apple One",
+                        "url": "/es/apple-one/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple one"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "95c988f1",
+                        "text": "Apple TV+",
+                        "url": "/es/apple-tv-plus/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple tv+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "fd8bab0e",
+                        "text": "Apple Music",
+                        "url": "/es/apple-music/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple music"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "36ce531c",
+                        "text": "Apple Arcade",
+                        "url": "/es/apple-arcade/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple arcade"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "63ceb1a4",
+                        "text": "Apple Fitness+",
+                        "url": "/es/apple-fitness-plus/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple fitness+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "3bacba52",
+                        "text": "Apple Podcasts",
+                        "url": "/es/apple-podcasts/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple podcasts"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "dd7b1be9",
+                        "text": "Apple Books",
+                        "url": "/es/apple-books/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple books"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d71c04e2",
+                        "text": "App Store",
+                        "url": "/es/app-store/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "app store"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "0b24c174"
+    },
+    {
+        "name": "accessories",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "accessories"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - accessories"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "683f8b56",
+                "title": "Explorar accesorios",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore accessories"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "f8854dcc",
+                        "text": "Con el sello Apple",
+                        "url": "/es/shop/goto/accessories/all_accessories/made_by_apple",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "made by apple"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "00a3c4d0",
+                        "text": "Beats by Dr. Dre",
+                        "url": "/es/shop/goto/accessories/all_accessories/beats_featured",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "beats by dre"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "1c08b44c",
+                        "text": "AirTag",
+                        "url": "/es/airtag/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airtag"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "6fa3d9d6",
+                "title": "Comprar accesorios",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "shop accessories"
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "da0a7812",
+                        "text": "Ver todos los accesorios",
+                        "url": "/es/shop/goto/buy_accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "shop all accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "0138cde2",
+                        "text": "Mac",
+                        "url": "/es/shop/goto/mac/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "890a367e",
+                        "text": "iPad",
+                        "url": "/es/shop/goto/ipad/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "9fdc55c9",
+                        "text": "iPhone",
+                        "url": "/es/shop/goto/iphone/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "f8abfa39",
+                        "text": "Apple Watch",
+                        "url": "/es/shop/goto/watch/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "watch accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "36c6910c",
+                        "text": "AirPods",
+                        "url": "/es/shop/goto/airpods/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "534f81ec",
+                        "text": "TV y Casa",
+                        "url": "/es/shop/goto/smart_home/accessories",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "tv & home accessories"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "c734dfc9"
+    },
+    {
+        "name": "support",
+        "analyticsAttributes": [
+            {
+                "name": "data-analytics-title",
+                "value": "support"
+            },
+            {
+                "name": "data-analytics-element-engagement",
+                "value": "hover - support"
+            },
+            {
+                "name": "data-analytics-exit-link",
+                "value": "true"
+            }
+        ],
+        "baseGroups": [
+            {
+                "id": "96b97a37",
+                "title": "Obtener ayuda",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "get help"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "db8f2f9a",
+                        "text": "Comunidad",
+                        "url": "https://communities.apple.com/es/welcome?cid=gn-com-community-lp-get_help",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "community"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "518825ab",
+                        "text": "Comprobar cobertura",
+                        "url": "https://checkcoverage.apple.com/es/es?cid=gn-ols-checkcoverage-lp-get_help",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "check coverage"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "232671e5",
+                        "text": "Genius Bar",
+                        "url": "/es/retail/geniusbar/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "genius bar"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "ea5b1b5f",
+                        "text": "Reparaciones",
+                        "url": "https://support.apple.com/es-es/repair?cid=gn-ols-repair-lp-get_help",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "repair"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            },
+            {
+                "id": "c965ba56",
+                "title": "Temas de interés",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "helpful topics"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "9e827b36",
+                        "text": "Get AppleCare",
+                        "url": "/es/applecare/",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "get applecare+"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "d8b0d923",
+                        "text": "Cuenta de Apple y contraseña",
+                        "url": "https://support.apple.com/es-es/apple-account?cid=gn-ols-appleaccount-psp-helpful_topics",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "apple account and password"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "7629dd24",
+                        "text": "Facturación y suscripciones",
+                        "url": "https://support.apple.com/es-es/billing?cid=gn-ols-billing-collection-helpful_topics",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "billing & subscriptions"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "04e2b64e",
+                        "text": "Accesibilidad",
+                        "url": "https://support.apple.com/es-es/accessibility?cid=gn-ols-accessibility-psp-helpful_topics",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "accessibility"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "elevatedGroups": [
+            {
+                "id": "0d207560",
+                "title": "Explorar Soporte",
+                "analyticsAttributes": [
+                    {
+                        "name": "data-analytics-region",
+                        "value": "explore support"
+                    }
+                ],
+                "baseLinks": [
+                    {
+                        "id": "83f11fb8",
+                        "text": "Explorar Soporte",
+                        "url": "https://support.apple.com/es-es/?cid=gn-ols-home-hp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "explore all support"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ],
+                "elevatedLinks": [
+                    {
+                        "id": "d09ce4fd",
+                        "text": "iPhone",
+                        "url": "https://support.apple.com/es-es/iphone?cid=gn-ols-iphone-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "iphone"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "4f04ec80",
+                        "text": "Mac",
+                        "url": "https://support.apple.com/es-es/mac?cid=gn-ols-mac-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "mac"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "da1fd44a",
+                        "text": "iPad",
+                        "url": "https://support.apple.com/es-es/ipad?cid=gn-ols-ipad-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "ipad"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "38e6a297",
+                        "text": "Watch",
+                        "url": "https://support.apple.com/es-es/watch?cid=gn-ols-watch-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "watch"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "281aac23",
+                        "text": "AirPods",
+                        "url": "https://support.apple.com/es-es/airpods?cid=gn-ols-airpods-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "airpods"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "e6e5f35f",
+                        "text": "Música",
+                        "url": "https://support.apple.com/es-es/music?cid=gn-ols-music-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "music"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    },
+                    {
+                        "id": "9655fbb8",
+                        "text": "TV",
+                        "url": "https://support.apple.com/es-es/tv?cid=gn-ols-tv-psp-explore",
+                        "analyticsAttributes": [
+                            {
+                                "name": "data-analytics-title",
+                                "value": "tv"
+                            },
+                            {
+                                "name": "data-analytics-exit-link",
+                                "value": "true"
+                            }
+                        ],
+                        "ariaLabel": ""
+                    }
+                ]
+            }
+        ],
+        "id": "b3e8fb90"
+    }
+]
